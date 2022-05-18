@@ -1,0 +1,7 @@
+## Git
+
+git status //Checa se tudo está commitado
+
+git add .  //Adiciona o local ao controle de versão
+
+git commit -m "xxxx" //Comita as novas anotações para o Github
